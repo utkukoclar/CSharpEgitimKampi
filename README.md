@@ -32,7 +32,7 @@ Bu derste foreach döngüsünü öğrendim ve örnekle pekiştirdim.
 📍 Ders-8
 
 Bu derste parametreli method kullandım ve örnekle pekiştirdim.
-
+-------------------------------------------------------------
 C# Eğitim Kampında Entity Framework methodlarını kullandık.
 ![frmStatistic](https://github.com/user-attachments/assets/7c5b2a14-5dd8-4943-a1db-e3bd8590f743)
 
